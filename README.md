@@ -1,24 +1,24 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">Hi 👋, I'm Vishwa 🧘‍♀️😊</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Blockchain_Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems Engineer"></a>
 </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in Bluechip Technologies Asia Pvt Ltd
+- 🔭 I’m currently working in Adapt Information Technologies Pvt Ltd
 
-- 👨‍💻 I'm currently working as a Blockchain Developer
+- 👨‍💻 I'm currently working as a Associate Systems Engineer
 
 - 🤝 I’m available for freelancing
 
-- 💡 I’m currently learning Blockchain ecosystem, Web3 developments and Cybersecurity
+- 💡 I’m currently learning Network Infrastructure, Operations, AI implementations and Cybersecurity
 
 - 📝 I regularly write articles on [https://medium.com/@heshzblogz](https://medium.com/@heshzblogz)
 
-- 💬 Ask me about **Blockchain developments, Smart Contracts**
+- 💬 Ask me about **Systems opertaion support**
 
 - 📫 How to reach me **heshanjayaneththi96@gmail.com**
 
