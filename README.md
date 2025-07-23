@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **heshanjayaneththi96@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/vish2396/vish2396/blob/main/Vishwa_Jayaneththi.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/vish2396/vish2396/blob/main/Vishwa Jayaneththi.pdf" target="blank">Resume</a>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
